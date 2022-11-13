@@ -1,0 +1,33 @@
+﻿3.1 Boolean Algebra and Boolean Theorem
+
+As we know that, the digital signals are discrete in nature and can be implemented using one of the two values 0 or 1. A number system based on these two digits in known as binary number system. In the middle of 19 century, an English mathematician George Boole developed rules for manipulations of binary variables. known as Boolean algebra. This is the basis of all digital systems like computers, calculators, etc.
+
+Definition: A class of elements B together with two binary operation (+) and f) (where a.b will be written as ab) is a Boolean algebra if and only if the following properties.
+
+The operations (+) and () are commutative.
+
+PL:
+
+There exists in B distinct identity elements 0 and 1 relative to the operations (+) and () respectively.
+
+Each operation is distributive over the other.
+
+For every a in B there exists element a in B such that:
+
+afa = 1 and aa' = 0
+
+Note: Sometimes in the place of two operations (+) and () we may also use (S) and (*) or (U) and (n) or (V) and W operators.
+
+Binary variables can be represented by a letter symbol such as A, B, X, Y... The variable can have only one of the two possible values at any time, viz. 0 or 1. The Boolean algebraic laws are given as follows:
+
+State and prove De Morgan's theorems
+
+P2:
+
+(S-15/16/17/18/19, W-15/16/17/18/19 for 4/5/6 marks)
+
+2 De-Morgan's Theorem
+
+Statement: De-Morgan's first theorem state that complement of product is equal to sum of their
+
+P4.
